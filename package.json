@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "electron": "^8.2.4"
+    "electron": "^15.5.5"
   },
   "scripts": {
     "run": "./node_modules/.bin/electron index.js"
